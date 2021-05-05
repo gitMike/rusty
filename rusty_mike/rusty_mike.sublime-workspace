@@ -1,0 +1,682 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rusty_game.rs",
+			"settings":
+			{
+				"buffer_size": 686,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "rusty_mike.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 11769,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Mike/EarlyRustProjects/hello/src/main.rs",
+			"settings":
+			{
+				"buffer_size": 51,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Mike/EarlyRustProjects/meb_rust_dogs/rust-microservices/src/main.rs",
+			"settings":
+			{
+				"buffer_size": 3853,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Mike/EarlyRustProjects/mebRust/testing/prime_factors/src/lib.rs",
+			"settings":
+			{
+				"buffer_size": 130,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Mike/MEB_2021_RustCrash/variables/src/main.rs",
+			"settings":
+			{
+				"buffer_size": 396,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Mike/Backup4MikeRust/2021_Rust_Mike/myproject/src/main.rs",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.rs",
+			"settings":
+			{
+				"buffer_size": 695,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Mike/2021_Rust_Mike/myproject/src/main.rs",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Cargo.toml",
+			"settings":
+			{
+				"buffer_size": 234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.rs",
+			"settings":
+			{
+				"buffer_size": 691,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.rs",
+			"settings":
+			{
+				"buffer_size": 691,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "+0.000 Running: cargo metadata --no-deps\n+1.358 Rust Enhanced: Failed to find target for 'C:\\\\Mike\\\\ProgrammingRust\\\\Rust\\\\rusty_mike\\\\main.rs'\n+14.138 Running: cargo metadata --no-deps\n+0.279 Rust Enhanced: Failed to find target for 'C:\\\\Mike\\\\ProgrammingRust\\\\Rust\\\\rusty_mike\\\\main.rs'\n+114.737 Running: cargo metadata --no-deps\n+0.273 Rust Enhanced: Failed to find target for 'C:\\\\Mike\\\\ProgrammingRust\\\\Rust\\\\rusty_mike\\\\main.rs'\n+86.297 Running: cargo metadata --no-deps\n+0.289 Rust Enhanced: Failed to find target for 'C:\\\\Mike\\\\ProgrammingRust\\\\Rust\\\\rusty_mike\\\\main.rs'\n+25.452 Running: cargo metadata --no-deps\n+0.280 Rust Enhanced: Failed to find target for 'C:\\\\Mike\\\\ProgrammingRust\\\\Rust\\\\rusty_mike\\\\rusty_game.rs'\n",
+			"settings":
+			{
+				"buffer_size": 731,
+				"line_ending": "Windows",
+				"name": "Rust Enhanced Debug Log",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/C/Mike/MEB_2021_RustCrash/learning_notes_rust.txt",
+			"settings":
+			{
+				"buffer_size": 1261,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Rust Enhanced/RustEnhanced.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Build With: RustEnhanced - Run"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Pak",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"java ",
+				"Build With: JavaC"
+			],
+			[
+				"java",
+				"Build With: JavaC"
+			],
+			[
+				"Package Control: Ter",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 261.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/aren/Desktop/RIM/main.rs.app.data.txt",
+		"/C/Mike/ProgrammingRust/Rust/greet_world/greet_world/src/main.rs",
+		"/C/Mike/ProgrammingRust/Rust/say_hi_mike/src/main.rs",
+		"/C/Mike/ProgrammingRust/Rust/penguin/src/main.rs",
+		"/C/Users/aren/Downloads/Package Control (3).sublime-package",
+		"/C/Users/aren/Desktop/RIM/mike.rocket.rs",
+		"/C/Mike/ProgrammingRust/LogRocket/lr_notes/basic_program.rs",
+		"/C/Users/aren/Desktop/RIM/fn_greet_world.rs",
+		"/C/Mike/ProgrammingRust/Rust/rusty_mike/src/main.rs",
+		"/C/Mike/ProgrammingRust/DigitalGuidefolder/age.rs",
+		"/C/Users/aren/hello2/Cargo.toml",
+		"/C/Users/aren/hello2/src/main.rs",
+		"/C/Users/aren/hello2/src/main.working.meb.rs",
+		"/C/Mike/ProgrammingRust/Rust/rusty_mike/Cargo.toml",
+		"/C/Users/aren/Desktop/RIM/hello.main.rs",
+		"/C/Users/aren/Desktop/RIM/main.penguin.rs",
+		"/F/mebIPython/Untitled4.ipynb",
+		"/C/Users/aren/Desktop/Michael Boyle -- Notes for Zoom Meeting with Dr. D",
+		"/C/intern_testing/intern-tutorial/app/hello.js",
+		"/C/Users/aren/AppData/Roaming/Sublime Text 3/Packages/Debugger/debugger.sublime-settings",
+		"/F/mebSQL/postgres.sql",
+		"/C/Users/aren/AppData/Roaming/Sublime Text 3/Packages/User/debugger.sublime-settings",
+		"/C/Users/aren/Desktop/MikesJava/Mystery.java",
+		"/C/Users/aren/Desktop/MikesJava/hello.java",
+		"/C/Users/aren/Desktop/hello.java",
+		"/C/Users/aren/Desktop/MikesJava/RecursiveCreateDirSubdirFiles.java",
+		"/C/Users/aren/Desktop/MikesJava/RecursiveFileDisplay.java",
+		"/C/Users/aren/AppData/Roaming/Sublime Text 3/Packages/User/RunJava.sublime-build",
+		"/C/Users/aren/Desktop/MikesJava/mystery.java",
+		"/C/Users/aren/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"60"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rusty_game.rs",
+					"settings":
+					{
+						"buffer_size": 686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "rusty_mike.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 11769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1296.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Mike/EarlyRustProjects/hello/src/main.rs",
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Mike/EarlyRustProjects/meb_rust_dogs/rust-microservices/src/main.rs",
+					"settings":
+					{
+						"buffer_size": 3853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1242.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Mike/EarlyRustProjects/mebRust/testing/prime_factors/src/lib.rs",
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Mike/MEB_2021_RustCrash/variables/src/main.rs",
+					"settings":
+					{
+						"buffer_size": 396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Mike/Backup4MikeRust/2021_Rust_Mike/myproject/src/main.rs",
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/main.rs",
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								695,
+								695
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Mike/2021_Rust_Mike/myproject/src/main.rs",
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Cargo.toml",
+					"settings":
+					{
+						"buffer_size": 234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "main.rs",
+					"settings":
+					{
+						"buffer_size": 691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "main.rs",
+					"settings":
+					{
+						"buffer_size": 691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"settings":
+					{
+						"buffer_size": 731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"rust_log_view": 2,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/Mike/MEB_2021_RustCrash/learning_notes_rust.txt",
+					"settings":
+					{
+						"buffer_size": 1261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 231.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
